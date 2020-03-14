@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tanjid  site</title>
+  </head>
+  <body>
+    <table cellspacing="50">
+      <tr>
+        <td><img src="tanjid.png" alt="Tanjid alam khan picture"></td>
+        <td><p>Hi<br> My name is <em><strong><h3>Tanjid alam khan </h3></strong></em>I am a <strong>Graphic desinger.</strong></p></td>
+        <td><label>Select your own right Time</label>
+          <input type="time" name="" value=""> </td>
+         <td> <label>Select your Happy color</label>
+          <input type="color" name="" value=""> </td>
+
+      </tr>
+    </table>
+    <hr size="2" color="red">
+    <center>
+    <h2>About me</h2>
+  </center>
+  <center>
+    <p>I am a Graphic desinger.i have lot's of skill in desing.i am a part time worker on <a href="https://fiverr/tanjid8?up_rollout=true">fiverr.
+    </a><br>I am doing the engnineering in barisal polytecnic instutet. My home town in barisal .</p>
+  </center>
+    <hr color="red">
+    <h2>My Education</h2>
+    <table  bordercolor="green" border="1" cellspacing="10">
+      <tr>
+        <td>S.S.C</td>
+        <td>Electrical</td>
+        <td>2016-2017</td>
+      </tr>
+      <td>Engnineering</td>
+      <td>Power TEC</td>
+      <td>2017-2021<h6>(running)</h6> </td>
+    </table>
+    <hr color="red">
+    <h3>My work Experience</h3>
+    <table cellspacing="20">
+      <tr>
+        <td><h4>Subject</h4></td>
+        <td><h4>Time</h4></td>
+
+      </tr>
+      <tr>
+        <td>Graphic Desing</td>
+        <td>2 Year</td>
+      </tr>
+      <tr>
+        <td>Wab Developer</td>
+        <td>1 Months</td>
+      </tr>
+    </table>
+    <hr color="red">
+    <h3>My work list</h3>
+    <table>
+      <tr>
+        <td>  <table cellspacing="10">
+            <tr>
+              <td>Photoshop work</td>
+            </tr>
+            <tr>
+              <td>Logo desing</td>
+            </tr>
+            <tr>
+              <td>Business card Desing</td>
+            </tr>
+          </table></td>
+        <td>  <table cellspacing="10">
+            <tr>
+              <td>Flyer desinge</td>
+            </tr>
+            <tr>
+              <td> Wab page Desing</td>
+            </tr>
+            <tr>
+              <td>motion Desing</td>
+            </tr>
+          </table></td>
+      </tr>
+    </table>
+    <hr color="red">
+    <h3>My work place</h3>
+    <ol type="i">
+      <li><a href="https://fiverr/tanjid8?up_rollout=true">fiverr</a> </li>
+      <li> <a href="https://m.freelancer.com/tanjid8">FREELANCER.COM</a> </li>
+    </ol>
+    <hr color="red">
+    <h3>My social midea page</h3>
+    <ul>
+      <li> <a href="https://www.facebook.com/rootofdesing">MY facebook page</a> </li>
+      <li> <a href="https://www.instagram/p/B6cWQfrhRwR/">Follow ME in INSTAGRAM </a></li>
+      <li> <a href="https://twitter.com/TJTJ64">Follow ME in Twitter</a> </li>
+      <li> <a href="https://www.linkedin.com/in/tanjid-khan-a47283187">Linkedin</a> </li>
+      <li> <a href="https://medium.com/@tanjid0464">Medium</a> </li>
+      <li> <a href="https://raddit.com/u/tanjidkhan15">Raddit</a> </li>
+      <li> <a href="https://www.youtube.com/channel/UC3GqGYzWNLVNGQ9BlhKYhTQ"></a> youtube </li>
+    </ul>
+    <hr color="red">
+<a href="feedback.html">Send me Feedback</a><br>
+<hr color="red"><br>
+
+<marquee direction="right">
+  <table bordercolor="blue" border="2">
+    <tr>
+      <td> <h1> NEXT PAGE comeing soon</h1> </td>
+    </tr>
+  </table>
+</marquee>
+  <br><br>
+  <br>
+<center> <table>
+  <tr>
+    <td> <h6>ALL Copyright to tanjid8</h6> </td>
+  </tr>
+</table> </center>
+  </body>
+</html>
